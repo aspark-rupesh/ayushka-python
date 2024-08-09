@@ -33,3 +33,8 @@ while counter<10:
         break
 
 print("final value ", counter)
+
+
+
+def new_function():
+    print("Function created for git class.")
