@@ -38,3 +38,7 @@ print("final value ", counter)
 
 def new_function():
     print("Function created for git class.")
+
+
+def new_function2():
+    print("Function2 created for git class.")
